@@ -1,3 +1,9 @@
 {
-  "importMap": "./import_map.json"
+  "imports": {
+    "deno-dom": "https://deno.land/x/deno_dom@v0.1.33-alpha/deno-dom-wasm.ts",
+    "@mozilla/readability": "npm:@mozilla/readability",
+    "hono": "https://deno.land/x/hono@v3.1.5/mod.ts",
+    "hono/middleware": "https://deno.land/x/hono@v3.0.1/middleware.ts",
+    "http-server": "https://deno.land/std@0.178.0/http/server.ts"
+  }
 }

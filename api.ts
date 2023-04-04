@@ -1,6 +1,6 @@
-import { Hono } from "hono";
-import { cors } from "hono/middleware";
-import { serve } from "http-server";
+import { Hono } from "https://deno.land/x/hono@v3.1.5/mod.ts";
+import { cors } from "https://deno.land/x/hono@v3.0.1/middleware.ts";
+import { serve } from "https://deno.land/std@0.178.0/http/server.ts";
 import { getHtml, getReadability } from "./readability.ts";
 
 const app = new Hono();

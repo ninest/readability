@@ -1,5 +1,5 @@
-import { Readability } from "@mozilla/readability";
-import { DOMParser } from "deno-dom";
+import { Readability } from "https://esm.sh/@mozilla/readability@0.4.4";
+import { DOMParser } from "https://deno.land/x/deno_dom@v0.1.33-alpha/deno-dom-wasm.ts";
 
 export async function getHtml(url: string) {
   const response = await fetch(url);

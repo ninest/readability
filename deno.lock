@@ -105,7 +105,10 @@
     "https://deno.land/x/hono@v3.1.5/utils/types.ts": "64fe2bf6526c682024bc5d0cd59d01a32f12bb9b80dca58d1cfc4e70231ef696",
     "https://deno.land/x/hono@v3.1.5/utils/url.ts": "e219e5d62acfe82f51cc6196b0a721cf09e04fa00a58bb0e682956ede68b4a79",
     "https://deno.land/x/hono@v3.1.5/validator/index.ts": "6c986e8b91dcf857ecc8164a506ae8eea8665792a4ff7215471df669c632ae7c",
-    "https://deno.land/x/hono@v3.1.5/validator/validator.ts": "e52183ddf8cefc3cfe2788802fe6ce766df8ac904df485107b01cbcca167dbad"
+    "https://deno.land/x/hono@v3.1.5/validator/validator.ts": "e52183ddf8cefc3cfe2788802fe6ce766df8ac904df485107b01cbcca167dbad",
+    "https://esm.sh/@mozilla/readability@0.4.4": "ee633a85a55fb62231699e91422ebb6a4937d48fb419b6fd67cc40e8004ae0f6",
+    "https://esm.sh/v113/@mozilla/readability@0.4.4/deno/readability.mjs": "adca7861e3f201e923842fbf16676d0b2cae8d1410ada182d61bbdb3288fb16c",
+    "https://esm.sh/v113/@mozilla/readability@0.4.4/index.d.ts": "128e1d29cfcd436e5949a7c67dd3dd4f6412b0f45095fd02a175f1deed213638"
   },
   "npm": {
     "specifiers": {
